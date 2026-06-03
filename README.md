@@ -1,4 +1,6 @@
-This project is a backend REST API built with FastAPI for managing users and news content. It includes authentication, role-based authorization, and full CRUD operations for news articles.
+This project is a backend REST API built with FastAPI for managing users and news content. It 
+
+includes authentication, role-based authorization, and full CRUD operations for news articles.
 The system is designed with simplicity, security, and scalability in mind.
 Features
 Authentication
